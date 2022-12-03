@@ -25,7 +25,6 @@ class Solution {
                 finalNumber += numberValues[i];
             }
         }
-
         return finalNumber;
     }
 }
