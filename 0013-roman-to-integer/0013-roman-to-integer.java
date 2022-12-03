@@ -3,7 +3,7 @@ class Solution {
         String[] numerals = s.split("");
         int[] numberValues = new int[s.length()];
         int finalNumber = 0;
-
+        
         for (int i = 0; i < numerals.length; i++) {
             switch (numerals[i]) {
                 case "I" -> numberValues[i] = 1;
