@@ -1,5 +1,5 @@
 # LeetCodePractice
-Collection of LeetCode questions to ace the coding interview! - Created originally using [LeetHub](https://github.com/QasimWani/LeetHub), currently using [LeetHubV2](https://github.com/arunbhardwaj/LeetHub-2.0) as of 6/1/2025
+Collection of LeetCode questions I've done for practice/fun! - Created originally using [LeetHub](https://github.com/QasimWani/LeetHub), currently using [LeetHubV2](https://github.com/arunbhardwaj/LeetHub-2.0) as of 6/1/2025
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
