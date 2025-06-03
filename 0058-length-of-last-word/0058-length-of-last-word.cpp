@@ -5,13 +5,16 @@ using namespace std;
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        s.erase(s.find_last_not_of(" \t\n\r\f\v") + 1);
-        int start_pos = s.rfind(' ');
-        if (start_pos != string::npos) {
-            return s.substr(start_pos + 1).length();
+        int count = 0;
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (s[i] == ' ' && count != 0) {
+                return count;
+            }
+            else if (s[i] != ' ') {
+                count++;
+            }
         }
-        else {
-            return s.size();
-        }
+
+        return count;
     }
 };
