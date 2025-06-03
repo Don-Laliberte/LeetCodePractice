@@ -19,6 +19,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0058-length-of-last-word) |
 ## Stack
 |  |
 | ------- |
