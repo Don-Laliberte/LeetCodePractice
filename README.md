@@ -37,4 +37,20 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0283-move-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
