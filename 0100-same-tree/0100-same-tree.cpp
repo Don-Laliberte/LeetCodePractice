@@ -12,46 +12,9 @@
  */
 class Solution {
 public:
-    bool isSameTree(TreeNode* p, TreeNode* q) {
-        if (p != nullptr && q != nullptr) {
-            if (p->val == q->val) { // Check root node
-                bool leftside;
-                bool rightside;
-
-                // Left
-                if (p->left != nullptr && q->left != nullptr) {
-                    leftside = isSameTree(p->left, q->left);
-                } else if (p->left == nullptr && q->left == nullptr) {
-                    leftside = true;
-                } else {
-                    leftside = false;
-                }
-
-                // Right
-                if (p->right != nullptr && q->right != nullptr) {
-                    rightside = isSameTree(p->right, q->right);
-                } else if (p->right == nullptr && q->right == nullptr) {
-                    rightside = true;
-                } else {
-                    rightside = false;
-                }
-
-                // Check both
-                if (leftside && rightside) {
-                    return true;
-                } else {
-                    return false;
-                }
-
-            } else {
-                return false;
-            }
-        }
-        else if (p == nullptr && q == nullptr) {
-            return true;
-        }
-        else {
-            return false;
-        }
+    bool isSameTree(TreeNode* a, TreeNode* b) {
+        if (!a and !b) return 1; // Checks if both are nullptr (This conveniently works for the last children too)
+        if (!a || !b) return 0; // Checks if only is nullptr
+        return a->val == b->val and isSameTree(a->left, b->left) and isSameTree(a->right, b->right); // Checks recursively if all the values are the same
     }
 };
