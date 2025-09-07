@@ -12,11 +12,13 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -70,4 +72,8 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
