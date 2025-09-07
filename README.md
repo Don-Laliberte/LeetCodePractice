@@ -20,6 +20,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | ------- |
 | [0020-valid-parentheses](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -57,4 +58,12 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | ------- |
 | [0100-same-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0101-symmetric-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
