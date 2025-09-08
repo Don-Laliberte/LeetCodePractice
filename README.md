@@ -34,6 +34,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0283-move-zeroes) |
 ## Tree
