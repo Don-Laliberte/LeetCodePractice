@@ -20,12 +20,14 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | ------- |
 | [0009-palindrome-number](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -83,5 +85,10 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
