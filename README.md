@@ -23,6 +23,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0009-palindrome-number](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -49,6 +50,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
