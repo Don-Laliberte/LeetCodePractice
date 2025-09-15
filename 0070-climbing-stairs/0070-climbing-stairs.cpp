@@ -10,7 +10,7 @@ public:
             return n;
         }
 
-        if (memo[n] != -1) {
+        if (memo[n] != -1) { // DP: Speeds up execution time by removing redundant calcs
             return memo[n];
         }
 
