@@ -47,6 +47,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0066-plus-one](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0283-move-zeroes) |
+| [1137-height-checker](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1137-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
+| [1137-height-checker](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1137-height-checker) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,4 +108,8 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
