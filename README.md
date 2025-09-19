@@ -73,6 +73,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0104-maximum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0101-symmetric-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -97,6 +100,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
 ## Hash Table
 |  |
 | ------- |
