@@ -45,6 +45,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [1137-height-checker](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1137-height-checker) |
