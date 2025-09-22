@@ -50,6 +50,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0066-plus-one](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [1137-height-checker](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1137-height-checker) |
 ## Binary Search
@@ -129,6 +130,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
