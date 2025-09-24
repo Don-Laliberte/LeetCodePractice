@@ -27,6 +27,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0069-sqrtx](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,4 +153,8 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
