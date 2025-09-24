@@ -40,6 +40,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -157,4 +158,12 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
