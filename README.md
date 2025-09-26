@@ -26,6 +26,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0067-add-binary](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0258-add-digits) |
 ## String
@@ -68,6 +69,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0283-move-zeroes) |
 ## Tree
@@ -111,6 +113,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
