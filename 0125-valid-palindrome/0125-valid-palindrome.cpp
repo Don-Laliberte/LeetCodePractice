@@ -5,18 +5,24 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        transform(s.begin(), s.end(), s.begin(),[](unsigned char c){ return tolower(c); });
-        s.erase(remove_if(s.begin(), s.end(), [](char c) { return !std::isalnum(c); }), s.end());
-        int left = 0;
-        int right = s.length() - 1;
+        int i = 0, j = s.size()-1;
+        while(i < j){   
 
-        while (left < right) {
-            if (s[left] != s[right]) {
-                return false; 
+            if(!isalnum(s[i])){
+                i++; 
+                continue;
             }
-            left++;
-            right--;
+            if(!isalnum(s[j])){
+                j--; 
+                continue;
+            }
+
+            if(tolower(s[i]) != tolower(s[j]))
+            return false;
+            
+            i++;
+            j--;
         }
-        return true; 
+        return true;
     }
 };
