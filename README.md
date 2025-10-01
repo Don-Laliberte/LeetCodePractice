@@ -42,6 +42,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -86,6 +87,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0110-balanced-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0110-balanced-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -113,6 +116,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0110-balanced-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
