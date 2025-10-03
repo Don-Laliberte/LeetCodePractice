@@ -49,6 +49,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0035-search-insert-position) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
