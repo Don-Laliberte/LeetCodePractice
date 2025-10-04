@@ -61,6 +61,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0118-pascals-triangle](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [1137-height-checker](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1137-height-checker) |
 ## Binary Search
@@ -130,6 +131,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0001-two-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -137,6 +139,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | ------- |
 | [0056-merge-intervals](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [1137-height-checker](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1137-height-checker) |
 ## Bit Manipulation
@@ -163,6 +166,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1137-height-checker) |
 ## String Matching
 |  |
@@ -172,6 +176,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
