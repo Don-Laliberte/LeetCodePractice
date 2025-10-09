@@ -100,6 +100,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0104-maximum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0112-path-sum](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
