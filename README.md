@@ -21,6 +21,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0206-reverse-linked-list](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0326-power-of-three) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0202-happy-number](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
