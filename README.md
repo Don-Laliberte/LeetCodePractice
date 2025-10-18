@@ -39,6 +39,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0058-length-of-last-word) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0119-pascals-triangle-ii) |
