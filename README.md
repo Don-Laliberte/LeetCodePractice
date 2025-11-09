@@ -74,6 +74,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0169-majority-element](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0697-degree-of-an-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0697-degree-of-an-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1137-height-checker) |
 ## Binary Search
 |  |
@@ -152,6 +153,7 @@ Collection of LeetCode questions I've done for practice/fun! - Created originall
 | [0202-happy-number](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0697-degree-of-an-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/0697-degree-of-an-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Don-Laliberte/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Sorting
 |  |
 | ------- |
