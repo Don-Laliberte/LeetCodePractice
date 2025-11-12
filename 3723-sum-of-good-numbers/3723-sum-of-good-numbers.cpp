@@ -1,22 +1,14 @@
 class Solution {
 public:
     int sumOfGoodNumbers(vector<int>& nums, int k) {
+        int n = nums.size();
         int sum = 0;
-        for (int i = 0; i < nums.size(); i++) {
-            int left = i - k;
-            int right = i + k;
-
-            if (left >= 0 && right < nums.size()) {
-                if (nums[i] > nums[left] && nums[i] > nums[right]) {
-                    cout << i << endl;
-                    sum += nums[i];
-                }
-            }
-            else if (left < 0 && (right >= nums.size() || nums[i] > nums[right]))
-                    sum += nums[i];
-            else if (right >= nums.size() && (left < 0 || nums[i] > nums[left]))
-                    sum += nums[i];
+        for (int i = 0; i < n; i++) {
+            bool flag = true;
+            if (i - k >= 0 && nums[i] <= nums[i - k]) flag = false;
+            if (i + k < n && nums[i] <= nums[i + k]) flag = false;
+            if (flag) sum += nums[i];
         }
-        return sum;
+        return sum; 
     }
 };
